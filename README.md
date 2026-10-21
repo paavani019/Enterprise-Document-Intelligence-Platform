@@ -22,7 +22,6 @@ A comprehensive, production-ready document processing and analytics platform bui
 - [Getting Started](#-getting-started)
 - [Documentation](#-documentation)
 - [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
 - [License](#-license)
 
 ---
@@ -664,63 +663,6 @@ Document-Intelligence-Platform/
 └── README.md                      # This file
 ```
 
----
-
-##  Contributing
-
-We welcome contributions to improve the Document Intelligence Platform!
-
-### How to Contribute
-
-1. **Fork the Repository**
-```bash
-git clone https://github.com/saidulIslam1602/Document-Intelligence-Platform.git
-cd Document-Intelligence-Platform
-```
-
-2. **Create a Feature Branch**
-```bash
-git checkout -b feature/your-feature-name
-```
-
-3. **Make Your Changes**
-- Follow Python PEP 8 style guidelines
-- Add comprehensive docstrings
-- Include type hints
-- Write unit tests for new features
-- Update documentation
-
-4. **Run Tests**
-```bash
-pytest tests/ -m "not integration" -v
-```
-
-5. **Commit Your Changes**
-```bash
-git add .
-git commit -m "Add feature: description"
-```
-
-6. **Push to Your Fork**
-```bash
-git push origin feature/your-feature-name
-```
-
-7. **Open a Pull Request**
-- Provide clear description
-- Reference related issues
-- Ensure CI/CD pipeline passes
-
-### Development Guidelines
-
-- **Code Style**: Follow PEP 8, use type hints
-- **Documentation**: Update README and inline docs
-- **Testing**: Maintain test coverage
-- **Commits**: Use descriptive commit messages
-- **Security**: Never commit secrets or credentials
-
----
-
 ##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -836,18 +778,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Advanced AI agents
 - [ ] Edge computing support
 
----
-
-##  Support & Contact
-
-### Getting Help
-- **Documentation**: Browse the [docs/](docs/) folder
-- **Issues**: [GitHub Issues](https://github.com/saidulIslam1602/Document-Intelligence-Platform/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/saidulIslam1602/Document-Intelligence-Platform/discussions)
-
-### Connect
-- **GitHub**: [@saidulIslam1602](https://github.com/saidulIslam1602)
-- **LinkedIn**: [Md Saidul Islam](https://www.linkedin.com/in/mdsaidulislam1602/)
 
 ---
 
@@ -862,9 +792,3 @@ If you find this project helpful:
 
 ---
 
-**Built with ❤️ for the Azure and AI/ML community**
-
-![GitHub stars](https://img.shields.io/github/stars/saidulIslam1602/Document-Intelligence-Platform?style=social)
-![GitHub forks](https://img.shields.io/github/forks/saidulIslam1602/Document-Intelligence-Platform?style=social)
-
-**Last Updated**: December 2025
