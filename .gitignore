@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Credentials
+CREDENTIALS.txt
+**/credentials.txt
+**/CREDENTIALS.txt
+
+# Docker
+.dockerignore
+
+# Backup
+.backup/
+
+# Node
+node_modules/
+dist/
+.cache/
+
+# Build
+build/
+*.egg-info/
